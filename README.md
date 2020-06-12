@@ -1,6 +1,10 @@
 # Snake
 
-Requirements: Python 3.x and pygame installed
+Here is the game snake I created using python
+
+Requirements: 
+
+Python 3.x and pygame installed
 
 How to use:
 
